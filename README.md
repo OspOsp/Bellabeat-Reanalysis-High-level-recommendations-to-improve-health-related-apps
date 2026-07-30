@@ -159,5 +159,5 @@ Analysis code in this repository is MIT licensed — see [LICENSE](LICENSE).
 
 ---
 
-*Feedback welcome — this was my first data analytics case study, and the re-analysis
+*Feedback welcome — The re-analysis
 above exists because the first pass was worth checking.*
