@@ -1,4 +1,4 @@
-# Bellabeat Case Study — High-level recommendations to improve health-related apps
+# Bellabeat Reanalysis — High-level recommendations to improve health-related apps
 
 Google Data Analytics Certificate capstone. An analysis of 18 Fitbit tracker datasets
 (33 users, 31 days, ~5.5 million rows) asking how a wellness technology company should
