@@ -1,0 +1,5 @@
+Segment,Users,MeanSteps,MeanCalories,MeanSedentaryMin,MeanMVPAMin,ShareOfPanel
+Inactive (<5k),7,3687.0,2161.0,1093.0,12.0,0.212
+Low active (5-7.5k),9,6550.0,2148.0,1083.0,17.0,0.273
+Somewhat active (7.5-10k),10,8790.0,2478.0,786.0,46.0,0.303
+Active (10k+),7,12680.0,2578.0,975.0,66.0,0.212

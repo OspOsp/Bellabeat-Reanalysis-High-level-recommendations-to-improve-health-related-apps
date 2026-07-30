@@ -1,0 +1,17 @@
+# Keep text diffs readable and line endings stable across platforms.
+# These generic rules come FIRST: for any attribute, the last matching line wins,
+# so the Git LFS rules below must be able to override `text` with `-text`.
+*.csv text eol=lf
+*.svg text eol=lf
+*.md  text eol=lf
+*.py  text eol=lf
+*.pdf binary
+
+# Five raw CSVs exceed 40 MiB. GitHub warns above 50 MiB and rejects single files
+# above 100 MiB, so these are tracked with Git LFS (https://git-lfs.com).
+# Run `git lfs install` once before your first clone or push.
+data/seconds/heartrate_seconds_merged.csv     filter=lfs diff=lfs merge=lfs -text
+data/minute/minuteCaloriesNarrow_merged.csv   filter=lfs diff=lfs merge=lfs -text
+data/minute/minuteIntensitiesNarrow_merged.csv filter=lfs diff=lfs merge=lfs -text
+data/minute/minuteMETsNarrow_merged.csv       filter=lfs diff=lfs merge=lfs -text
+data/minute/minuteStepsNarrow_merged.csv      filter=lfs diff=lfs merge=lfs -text

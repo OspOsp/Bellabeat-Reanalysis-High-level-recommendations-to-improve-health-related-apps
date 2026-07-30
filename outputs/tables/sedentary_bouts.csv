@@ -1,0 +1,8 @@
+Metric,Value
+Person-days analysed,841.0
+Median longest sedentary bout (min),105.0
+Mean longest sedentary bout (min),163.8
+Share of days with a bout >= 60 min,0.785
+Share of days with a bout >= 120 min,0.434
+Mean number of >= 30 min bouts per waking day,4.28
+Share of waking minutes at zero intensity,0.745

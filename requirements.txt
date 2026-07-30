@@ -1,0 +1,3 @@
+# Analysis dependencies. Figures are hand-built SVG, so no plotting library is needed.
+pandas>=2.0
+numpy>=1.24

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-label="Devices are abandoned faster than the study can measure">
+<rect width="900" height="470" fill="#fcfcfb"/>
+<text x="28.0" y="30.0" fill="#0b0b0b" font-size="16" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="start">Devices are abandoned faster than the study can measure</text>
+<text x="28.0" y="48.0" fill="#52514e" font-size="12" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="start">Users recording at least one step, each day of the 31-day window (33 enrolled)</text>
+<line x1="74" y1="408.0" x2="872" y2="408.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="62.0" y="412.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">0</text>
+<line x1="74" y1="293.3" x2="872" y2="293.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62.0" y="297.3" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">11</text>
+<line x1="74" y1="178.7" x2="872" y2="178.7" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62.0" y="182.7" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">22</text>
+<line x1="74" y1="64.0" x2="872" y2="64.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62.0" y="68.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">33</text>
+<text transform="rotate(-90 22 236.0)" x="22" y="236.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' text-anchor="middle">Active devices</text>
+<path d="M74.0 84.8 L100.6 84.8 L127.2 84.8 L153.8 64.0 L180.4 84.8 L207.0 105.7 L233.6 84.8 L260.2 116.1 L286.8 95.3 L313.4 116.1 L340.0 84.8 L366.6 105.7 L393.2 95.3 L419.8 116.1 L446.4 105.7 L473.0 105.7 L499.6 84.8 L526.2 116.1 L552.8 116.1 L579.4 116.1 L606.0 126.5 L632.6 116.1 L659.2 126.5 L685.8 137.0 L712.4 116.1 L739.0 147.4 L765.6 168.2 L792.2 157.8 L818.8 178.7 L845.4 178.7 L872.0 230.8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="74.0" cy="84.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="100.6" cy="84.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="127.2" cy="84.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="153.8" cy="64.0" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="180.4" cy="84.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="207.0" cy="105.7" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="233.6" cy="84.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="260.2" cy="116.1" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="286.8" cy="95.3" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="313.4" cy="116.1" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="340.0" cy="84.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="366.6" cy="105.7" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="393.2" cy="95.3" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="419.8" cy="116.1" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="446.4" cy="105.7" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="473.0" cy="105.7" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="499.6" cy="84.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="526.2" cy="116.1" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="552.8" cy="116.1" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="579.4" cy="116.1" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="606.0" cy="126.5" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="632.6" cy="116.1" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="659.2" cy="126.5" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="685.8" cy="137.0" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="712.4" cy="116.1" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="739.0" cy="147.4" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="765.6" cy="168.2" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="792.2" cy="157.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="818.8" cy="178.7" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="845.4" cy="178.7" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="872.0" cy="230.8" r="3.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="74.0" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">Apr 12</text>
+<text x="207.0" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">Apr 17</text>
+<text x="340.0" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">Apr 22</text>
+<text x="473.0" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">Apr 27</text>
+<text x="606.0" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">May 02</text>
+<text x="739.0" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">May 07</text>
+<text x="872.0" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">May 12</text>
+<text x="473.0" y="448.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">Date</text>
+<text x="74.0" y="72.8" fill="#52514e" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="start" style="font-variant-numeric:tabular-nums">31 devices</text>
+<text x="866.0" y="220.8" fill="#52514e" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">17</text>
+<text x="74.0" y="464.0" fill="#898781" font-size="10" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="start">Final day is a partial collection day. Comparing full weeks: 31.0 devices/day in week 1 vs 23.0 in the last 7 days, a 26% decline.</text>
+</svg>

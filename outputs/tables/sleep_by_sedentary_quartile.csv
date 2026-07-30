@@ -1,0 +1,5 @@
+SedentaryMinutes,Nights,MeanSedentaryMin,MeanMinutesAsleep,MeanSteps,MeanHoursAsleep
+Q1 least sedentary,103,514.0,510.0,8897.0,8.5
+Q2,103,683.0,431.0,9468.0,7.18
+Q3,101,748.0,416.0,8720.0,6.93
+Q4 most sedentary,103,904.0,320.0,6978.0,5.33

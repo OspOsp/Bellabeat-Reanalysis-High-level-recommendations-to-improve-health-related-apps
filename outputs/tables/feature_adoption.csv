@@ -1,0 +1,8 @@
+Feature,Users,Meaning,ShareOf33
+Activity / steps,33,worn during the day,1.0
+Sleep tracking,24,worn overnight,0.727
+"Sleep, 10+ nights",15,habitual overnight wear,0.455
+Heart rate,14,device supports/enables HR,0.424
+Weight log,8,any weight entry,0.242
+Manual activity log,4,ever logged a workout by hand,0.121
+Body-fat entry,2,any body-fat entry,0.061

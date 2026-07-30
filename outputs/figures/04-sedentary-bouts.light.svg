@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-label="Sitting arrives in long blocks, not a steady drizzle">
+<rect width="900" height="470" fill="#fcfcfb"/>
+<text x="28.0" y="30.0" fill="#0b0b0b" font-size="16" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="start">Sitting arrives in long blocks, not a steady drizzle</text>
+<text x="28.0" y="48.0" fill="#52514e" font-size="12" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="start">Longest uninterrupted sedentary stretch in the waking day (07:00-21:59), 841 wear-days</text>
+<line x1="74" y1="408.0" x2="872" y2="408.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="62.0" y="412.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">0%</text>
+<line x1="74" y1="322.0" x2="872" y2="322.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62.0" y="326.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">10%</text>
+<line x1="74" y1="236.0" x2="872" y2="236.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62.0" y="240.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">20%</text>
+<line x1="74" y1="150.0" x2="872" y2="150.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62.0" y="154.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">30%</text>
+<line x1="74" y1="64.0" x2="872" y2="64.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62.0" y="68.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">40%</text>
+<text transform="rotate(-90 22 236.0)" x="22" y="236.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' text-anchor="middle">Share of days</text>
+<path d="M107.8 408.0 L107.8 401.7 Q107.8 397.7 111.8 397.7 L195.8 397.7 Q199.8 397.7 199.8 401.7 L199.8 408.0 Z" fill="#2a78d6"/>
+<text x="153.8" y="387.7" fill="#52514e" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="middle" style="font-variant-numeric:tabular-nums">1%</text>
+<path d="M267.4 408.0 L267.4 233.1 Q267.4 229.1 271.4 229.1 L355.4 229.1 Q359.4 229.1 359.4 233.1 L359.4 408.0 Z" fill="#2a78d6"/>
+<text x="313.4" y="219.1" fill="#52514e" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="middle" style="font-variant-numeric:tabular-nums">21%</text>
+<path d="M427.0 408.0 L427.0 109.3 Q427.0 105.3 431.0 105.3 L515.0 105.3 Q519.0 105.3 519.0 109.3 L519.0 408.0 Z" fill="#2a78d6"/>
+<text x="473.0" y="95.3" fill="#52514e" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="middle" style="font-variant-numeric:tabular-nums">35%</text>
+<path d="M586.6 408.0 L586.6 208.2 Q586.6 204.2 590.6 204.2 L674.6 204.2 Q678.6 204.2 678.6 208.2 L678.6 408.0 Z" fill="#2a78d6"/>
+<text x="632.6" y="194.2" fill="#52514e" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="middle" style="font-variant-numeric:tabular-nums">24%</text>
+<path d="M746.2 408.0 L746.2 247.7 Q746.2 243.7 750.2 243.7 L834.2 243.7 Q838.2 243.7 838.2 247.7 L838.2 408.0 Z" fill="#2a78d6"/>
+<text x="792.2" y="233.7" fill="#52514e" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="600" text-anchor="middle" style="font-variant-numeric:tabular-nums">19%</text>
+<text x="153.8" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">&lt;30</text>
+<text x="313.4" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">30-59</text>
+<text x="473.0" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">60-119</text>
+<text x="632.6" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">120-239</text>
+<text x="792.2" y="428.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">240+</text>
+<text x="473.0" y="448.0" fill="#898781" font-size="11" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="middle">Longest sedentary bout (minutes)</text>
+<text x="74.0" y="464.0" fill="#898781" font-size="10" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-weight="400" text-anchor="start">43% of waking days contain an unbroken sedentary block of two hours or more; the median day&#x27;s longest block is 105 minutes.</text>
+</svg>

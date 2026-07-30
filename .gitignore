@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# R (the original analysis was run in R and Excel)
+.Rhistory
+.RData
+.Rproj.user/
+
+# Excel / Sheets scratch files
+~$*.xlsx
+*.tmp

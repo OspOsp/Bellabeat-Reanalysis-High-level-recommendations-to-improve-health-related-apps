@@ -1,0 +1,8 @@
+DayOfWeek,CalendarOccurrences,PersonDays,TotalSteps,MeanSteps,MeanCalories,MeanSedentaryMin,MeanMVPAMin,RankByTotal,RankByMean
+Monday,4,110,933704,8488.2,2385.6,990.5,40.5,6,3
+Tuesday,5,138,1235001,8949.3,2441.0,973.6,41.1,1,1
+Wednesday,5,139,1133906,8157.6,2339.4,953.8,36.6,2,5
+Thursday,5,133,1088658,8185.4,2274.4,920.7,34.7,3,4
+Friday,4,120,938477,7820.6,2351.6,978.3,33.8,5,6
+Saturday,4,113,1010969,8946.6,2428.8,930.0,40.4,4,2
+Sunday,4,110,838921,7626.6,2310.9,945.3,38.0,7,7
